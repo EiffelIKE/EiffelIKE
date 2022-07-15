@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EiffelIKE
 - 👀 I’m interested in FrontEnd development
-- 🌱 I’m currently learning JSX
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jctrujillo759@gmail.com or +5354100226
 
