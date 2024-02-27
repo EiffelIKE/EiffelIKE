@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EiffelIKE
-- 👀 I’m interested in Full Stack MERN 
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in MERN Stack
+- 🌱 I’m currently learning ASP.NET
 - 📫 How to reach me: jctrujillo759@gmail.com or +5354100226
 
 <!---
