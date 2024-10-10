@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EiffelIKE
 - 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning ASP.NET
+- Currently working on Azure DevOps and GitLab
 - 📫 How to reach me: jctrujillo759@gmail.com or +5354100226
 
 <!---
